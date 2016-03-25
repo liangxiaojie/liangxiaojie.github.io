@@ -1,4 +1,4 @@
-title:            梁晓杰的博客,liangxiaojie's Blog
+title:            梁晓杰的博客
 description:      梁晓杰的博客,liangxiaojie's Blog
 disqus_shortname:
 reading_time:     true
@@ -9,7 +9,7 @@ url:
 
 # Owner/author information
 owner:
-  name:           梁晓杰,liangxiaojie
+  name:           liangxiaojie
   avatar:         avatar.jpg
   bio:            "liangxiaojie"
   email:          liangxiaojie@genedock.com
