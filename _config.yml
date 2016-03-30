@@ -16,7 +16,11 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
+<<<<<<< HEAD
   github:         liangxiaojie
+=======
+  github:         https://github.com/liangxiaojie
+>>>>>>> d219c1b91c18c59c80413b28de7fdf19b517fae0
   stackexchange:
   linkedin:
   instagram:
