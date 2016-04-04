@@ -1,13 +1,10 @@
 {
-  "name": "hpstr-theme",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/hpstr-jekyll-theme/",
+  "name": "liang-blog",
+  "author": "liangxiaojie <liangxiaojie@genedock.com>",
+  "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/hpstr-jekyll-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mmistakes/hpstr-jekyll-theme/issues"
+    "url": "git://github.com/liangxiaojie/liangxiaojie.github.io.git"
   },
   "engines": {
     "node": ">= 0.10.0"
