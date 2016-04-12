@@ -1,3 +1,3 @@
 # 梁晓杰的博客
 
-Powered by Jekyll using the HPSTR Theme.
+Powered by [Jekyll](https://github.com/jekyll/jekyll) using the HPSTR Theme.
